@@ -11,6 +11,10 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
     - Motor shaft encoder and 12-bit output shaft encoder: Measuring angles and angular velocities of left and right hip joints
 
 ## Experimental Procedure
+
+![Figure 1: On-site photos of data collection](./images/figure2.png)  
+*Figure 1 On-site photos of data collection*  
+
 65 healthy adults were recruited (age 23±2 years, height 1.74±0.05 meters, weight 80±8.6 kg), excluding specific conditions. The experiment received ethics committee approval, and participants signed informed consent forms.
 
 **Participants performed four walking modes under supervision**:
@@ -20,7 +24,11 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
 4. Inclined Treadmill Walking (IT): Walking on a treadmill inclined at 20° for 45 seconds  
 **Additionally, fall experiments were conducted to simulate extreme conditions.**
 
-## Data Description
+## Data Description  
+
+![Figure 2: Illustration of dataset features](./images/figure1.png)  
+*Figure 2 Illustration of dataset features*  
+
 **Feature Format**: Each time point contains 13 features, recorded in Excel cells with20ms intervals.
 
 **Features Include**:
