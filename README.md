@@ -1,5 +1,5 @@
 # AUST_gait
-AUST-gait dataset and introduction.(AUST-gait数据集及介绍)
+AUST-gait dataset and introduction.
 
 ## Introduction
 The AUST-gait dataset, collected by Anhui University of Science and Technology, is specifically designed for gait analysis, supporting time-series prediction and classification tasks. The dataset is collected through a wearable hip exoskeleton robot and contains various sensor data, suitable for research in missing value processing and gait recognition.
@@ -13,7 +13,7 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
 ## Experimental Procedure
 
 ![Figure 1: On-site photos of data collection](./images/Figure_1.png)  
-<p align="center"><em>Figure 1: On-site photos of data collection (数据采集现场照片)</em></p> 
+<p align="center"><em>Figure 1: On-site photos of data collection</em></p> 
 
 65 healthy adults were recruited (age 23±2 years, height 1.74±0.05 meters, weight 80±8.6 kg), excluding specific conditions. The experiment received ethics committee approval, and participants signed informed consent forms.
 
@@ -27,7 +27,7 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
 ## Data Description  
 
 ![Figure 2: Illustration of dataset features](./images/Figure_2.png)  
-<p align="center"><em>Figure 2: Illustration of dataset features (数据集特征说明图)</em></p>   
+<p align="center"><em>Figure 2: Illustration of dataset features</em></p>   
 
 **Feature Format**: Each time point contains 13 features, recorded in Excel cells with20ms intervals.
 
