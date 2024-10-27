@@ -12,8 +12,8 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
 
 ## Experimental Procedure
 
-![Figure 1: On-site photos of data collection](./images/figure2.png)  
-*Figure 1 On-site photos of data collection*  
+![Figure 1: On-site photos of data collection](./images/Figure_1.png)  
+<p align="center"><em>Figure 1: On-site photos of data collection (数据采集现场照片)</em></p> 
 
 65 healthy adults were recruited (age 23±2 years, height 1.74±0.05 meters, weight 80±8.6 kg), excluding specific conditions. The experiment received ethics committee approval, and participants signed informed consent forms.
 
@@ -26,8 +26,8 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
 
 ## Data Description  
 
-![Figure 2: Illustration of dataset features](./images/figure1.png)  
-*Figure 2 Illustration of dataset features*  
+![Figure 2: Illustration of dataset features](./images/Figure_2.png)  
+<p align="center"><em>Figure 2: Illustration of dataset features (数据集特征说明图)</em></p>   
 
 **Feature Format**: Each time point contains 13 features, recorded in Excel cells with20ms intervals.
 
@@ -64,8 +64,7 @@ The AUST-gait dataset, collected by Anhui University of Science and Technology, 
 
 **Missing Value Processing**: Users can employ various algorithms to simulate missing values, and the dataset supports experiments with different missing rates.
 
-## License
-This dataset is released under open data sharing principles. Users can freely use, modify, and distribute the data with proper attribution.
+## License：This dataset is released under open data sharing principles. Users can freely use, modify, and distribute the data with proper attribution.
 
 ## If you have any questions, feel free to raise an issue
 
